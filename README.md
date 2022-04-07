@@ -11,7 +11,7 @@
 <b>Windows Playground</b> is a playground simulating the mythic Windows SO.
 
 ## Preview
-
+https://user-images.githubusercontent.com/24654062/162118704-0b6a5278-21b5-49eb-86b9-2e62e19784cf.mp4
 
 ### Prototype
 * [Figma](https://www.figma.com/file/tE51s4kfTQ08tRXEIUR9qI/Windows-Playground?node-id=0%3A1)

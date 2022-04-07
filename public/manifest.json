@@ -1,0 +1,21 @@
+{
+  "name": "Windows Playground",
+  "short_name": "Windows Playground",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "fullscreen",
+  "description": "Windows Playground using Typescript, React, Next JS e Styled Components",
+  "theme_color": "#06092B",
+  "background_color": "#06092B"
+}

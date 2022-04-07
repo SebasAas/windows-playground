@@ -33,7 +33,7 @@ function Clock() {
 
   return (
     <S.Clock>
-      <S.Time>14:47</S.Time>
+      <S.Time>{hour}</S.Time>
       <S.Date>{date}</S.Date>
     </S.Clock>
   );
